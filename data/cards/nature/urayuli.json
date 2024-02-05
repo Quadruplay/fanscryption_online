@@ -1,0 +1,15 @@
+{
+	"name": "Urayuli",
+	"scribe": "nature",
+	"health": 7,
+	"attack": 7,
+	"sigils": [],
+	"cost": {
+		"type": "blood",
+		"amount": 4
+	},
+	"spriteID": "urayuli",
+	"rarity": "rare",
+	"terrain": false,
+	"mox": false
+}

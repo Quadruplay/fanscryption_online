@@ -1,0 +1,15 @@
+{
+	"name": "Wild Bull",
+	"scribe": "nature",
+	"health": 2,
+	"attack": 3,
+	"sigils": ["strafeswap"],
+	"cost": {
+		"type": "blood",
+		"amount": 2
+	},
+	"spriteID": "wild_bull",
+	"rarity": "common",
+	"terrain": false,
+	"mox": false
+}

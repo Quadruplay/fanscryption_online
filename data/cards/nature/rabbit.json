@@ -1,0 +1,14 @@
+{
+	"name": "Rabbit",
+	"scribe": "nature",
+	"health": 1,
+	"attack": 0,
+	"sigils": [],
+	"cost": {
+		"type": "free"
+	},
+	"spriteID": "rabbit",
+	"rarity": "token",
+	"terrain": false,
+	"mox": false
+}

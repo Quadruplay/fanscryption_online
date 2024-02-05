@@ -1,0 +1,14 @@
+{
+	"name": "Squirrel",
+	"scribe": "nature",
+	"health": 1,
+	"attack": 0,
+	"sigils": [],
+	"cost": {
+		"type": "free"
+	},
+	"spriteID": "squirrel",
+	"rarity": "side",
+	"terrain": false,
+	"mox": false
+}

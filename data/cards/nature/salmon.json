@@ -1,0 +1,15 @@
+{
+	"name": "Salmon",
+	"scribe": "nature",
+	"health": 2,
+	"attack": 2,
+	"sigils": ["submerge","strafe"],
+	"cost": {
+		"type": "blood",
+		"amount": 2
+	},
+	"spriteID": "salmon",
+	"rarity": "common",
+	"terrain": false,
+	"mox": false
+}

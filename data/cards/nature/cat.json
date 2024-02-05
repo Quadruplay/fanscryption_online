@@ -1,0 +1,15 @@
+{
+	"name": "Cat",
+	"scribe": "nature",
+	"health": 1,
+	"attack": 0,
+	"sigils": ["sarificial"],
+	"cost": {
+		"type": "blood",
+		"amount": 1
+	},
+	"spriteID": "cat",
+	"rarity": "common",
+	"terrain": false,
+	"mox": false
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Mole Man",
+	"scribe": "nature",
+	"health": 6,
+	"attack": 0,
+	"sigils": ["whackamole","blockflying"],
+	"cost": {
+		"type": "blood",
+		"amount": 1
+	},
+	"spriteID": "mole_man",
+	"rarity": "rare",
+	"terrain": false,
+	"mox": false
+}

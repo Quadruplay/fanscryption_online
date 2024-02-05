@@ -1,0 +1,15 @@
+{
+	"name": "Field Mice",
+	"scribe": "nature",
+	"health": 2,
+	"attack": 2,
+	"sigils": ["drawcopy"],
+	"cost": {
+		"type": "blood",
+		"amount": 2
+	},
+	"spriteID": "field_mice",
+	"rarity": "common",
+	"terrain": false,
+	"mox": false
+}

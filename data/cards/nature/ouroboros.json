@@ -1,0 +1,15 @@
+{
+	"name": "Ouroboros",
+	"scribe": "nature",
+	"health": 1,
+	"attack": 1,
+	"sigils": ["drawcopyondeath"],
+	"cost": {
+		"type": "blood",
+		"amount": 1
+	},
+	"spriteID": "ouroboros",
+	"rarity": "rare",
+	"terrain": false,
+	"mox": false
+}

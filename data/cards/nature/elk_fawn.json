@@ -1,0 +1,15 @@
+{
+	"name": "Elk Fawn",
+	"scribe": "nature",
+	"health": 1,
+	"attack": 1,
+	"sigils": ["strafe","evolve"],
+	"cost": {
+		"type": "blood",
+		"amount": 1
+	},
+	"spriteID": "elk_fawn",
+	"rarity": "common",
+	"terrain": false,
+	"mox": false
+}

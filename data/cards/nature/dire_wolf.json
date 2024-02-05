@@ -1,0 +1,15 @@
+{
+	"name": "Dire Wolf",
+	"scribe": "nature",
+	"health": 5,
+	"attack": 2,
+	"sigils": ["doublestrike"],
+	"cost": {
+		"type": "blood",
+		"amount": 3
+	},
+	"spriteID": "dire_wolf",
+	"rarity": "common",
+	"terrain": false,
+	"mox": false
+}

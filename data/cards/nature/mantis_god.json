@@ -1,0 +1,17 @@
+{
+	"name": "Mantis God",
+	"scribe": "nature",
+	"health": 1,
+	"attack": 1,
+	"sigils": [
+		"tristrike"
+	],
+	"cost": {
+		"type": "blood",
+		"amount": 1
+	},
+	"spriteID": "mantis_god",
+	"rarity": "rare",
+	"terrain": false,
+	"mox": false
+}

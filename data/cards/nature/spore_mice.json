@@ -1,0 +1,16 @@
+{
+	"name": "Spore Mice",
+	"scribe": "nature",
+	"health": 2,
+	"attack": 2,
+	"sigils": ["drawcopy", "drawcopy"],
+	"cost": {
+		"type": "blood",
+		"amount": 2
+	},
+	"spriteID": "spore_mice",
+	"rarity": "common",
+	"terrain": false,
+	"mox": false,
+	"merged": true
+}

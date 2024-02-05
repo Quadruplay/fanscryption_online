@@ -1,0 +1,16 @@
+{
+	"name": "Flying Ant",
+	"scribe": "nature",
+	"health": 1,
+	"attack": "ants",
+	"sigils": ["flying"],
+	"cost": {
+		"type": "blood",
+		"amount": 1
+	},
+	"spriteID": "flying_ant",
+	"rarity": "common",
+	"terrain": false,
+	"mox": false,
+	"ant": true
+}

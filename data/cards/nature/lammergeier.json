@@ -1,0 +1,15 @@
+{
+	"name": "Lammergeier",
+	"scribe": "nature",
+	"health": 4,
+	"attack": "bones",
+	"sigils": ["flying"],
+	"cost": {
+		"type": "blood",
+		"amount": 3
+	},
+	"spriteID": "lammergeier",
+	"rarity": "common",
+	"terrain": false,
+	"mox": false
+}
